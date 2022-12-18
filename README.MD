@@ -32,4 +32,4 @@ O usuário e senha do serviço criado no Upstash devem ser inseridos no arquivo 
 Com esse serviço, mesmo que sua aplicação esteja fora do ar, ela ainda receberá as mensagens contidas pelo Kafka assim que voltar a ficar disponível.
 
 3. Criar um producer para poder validar que as notificações estão chegando na aplicação.
-[Aqui](https://github.com/Wanderson-Alves-do-Nascimento/rocketseat-ignitelab4th-kafkaproducer) deixo um exemplo de producer utilizado na finalização do evento. Para acessar o vídeo, clique [aqui] (https://www.youtube.com/watch?v=7nngNeoyMbM). 
+[Aqui](https://github.com/Wanderson-Alves-do-Nascimento/rocketseat-ignitelab4th-kafkaproducer) deixo um exemplo de producer utilizado na finalização do evento. Para acessar o vídeo, clique <a href="https://www.youtube.com/watch?v=7nngNeoyMbM">aqui</a>. 
